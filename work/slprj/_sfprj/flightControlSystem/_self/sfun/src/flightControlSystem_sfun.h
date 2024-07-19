@@ -30,6 +30,8 @@
 #define rtIsInf(X)                     ((int)mxIsInf(X))
 
 /* Auxiliary Header Files */
+#include "blas.h"
+#include "lapacke.h"
 #include "libmwbwlookup_tbb.h"
 #include "libmwcannythresholding_tbb.h"
 #include "libmwgetnumcores.h"

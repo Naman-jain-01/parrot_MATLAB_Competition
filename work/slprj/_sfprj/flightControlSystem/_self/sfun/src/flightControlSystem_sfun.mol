@@ -2,7 +2,9 @@ flightControlSystem_sfun.obj
 c1_flightControlSystem.obj
 flightControlSystem_sfun_registry.obj
 half_type.obj
-
+-LC:\PROGRA~1\MATLAB\R2024a\extern\lib\win64\mingw64
+-llibmwblas
+-llibmwlapack
 
 "C:\Program Files\MATLAB\R2024a\extern\lib\win64\mingw64\libmwbwlookup_tbb.lib" 
 "C:\Program Files\MATLAB\R2024a\extern\lib\win64\mingw64\libmwcannythresholding_tbb.lib" 
