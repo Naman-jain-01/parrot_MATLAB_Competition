@@ -21,10 +21,10 @@ This repository contains a **line follower algorithm** designed for the **Parrot
 
 ### Video Demonstration
 
-<video width="600" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1oqsha61gUzGygEiQRGJikwqs8xbmVV3E" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Video Demonstration
+
+[Watch the video on Google Drive](https://drive.google.com/file/d/1oqsha61gUzGygEiQRGJikwqs8xbmVV3E/view?usp=sharing)
+
 
 ![Drone Path Snapshot](#link-to-image)  
 
