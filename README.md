@@ -94,7 +94,14 @@ Special thanks to **MathWorks** for organizing the event and giving us a platfor
 [![](#image-of-path)](#link-to-image)  
 *Drone following the red line with live snapshots of the path*
 
-[Watch Simulation Video](#link-to-video)  
+### Video Demonstration
+
+<video width="600" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1oqsha61gUzGygEiQRGJikwqs8xbmVV3E" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 *A video demonstrating the drone's behavior following the red line and landing*
 
 ---
