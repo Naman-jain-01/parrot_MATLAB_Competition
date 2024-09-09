@@ -19,7 +19,13 @@ To create an attractive and comprehensive README for your MathWorks Mini Drone C
 
 This repository contains a **line follower algorithm** designed for the **Parrot Mini Drone**, built using **Simulink MATLAB**. The algorithm enables the drone to autonomously track a **red line** and land on a designated **circle** using its onboard camera.
 
-[Watch our simulation video](https://drive.google.com/file/d/1oqsha61gUzGygEiQRGJikwqs8xbmVV3E/view?usp=drive_link)  
+### Video Demonstration
+
+<video width="600" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1oqsha61gUzGygEiQRGJikwqs8xbmVV3E" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ![Drone Path Snapshot](#link-to-image)  
 
 ---
